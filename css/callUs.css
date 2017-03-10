@@ -1,0 +1,59 @@
+.LL-a {
+	height: 95px;
+	background: url(../img/xing.png) center top no-repeat;
+	margin: 36px auto 10px auto;
+}
+
+.LL-a1 {
+	height: 1px;
+	padding-top: 47px;
+	border-bottom: 1px solid #afafaf;
+	position: relative;
+}
+
+.LL-a2 {
+	position: absolute;
+	left: 50%;
+	top: 30px;
+	font-size: 30px;
+	font-weight: bold;
+	color: #383e4c;
+	text-align: center;
+	background-color: #fff;
+	overflow: hidden;
+	padding: 5px 0;
+}
+
+.LL-b {
+	margin-top: 90px;
+	text-align: center;
+}
+
+.LL-b .ig {
+	position: absolute;
+	top: -52px;
+	left: 92px;
+}
+
+.LL-b h4 {
+	margin-top: 70px;
+}
+
+.LL-b1 {
+	height: 225px;
+}
+
+.LL-b1 p {
+	z-index: 10;
+}
+
+.LL-b .code-pic {
+	display: none;
+	position: absolute;
+	top: 20px;
+	left: 58px;
+}
+
+.LL-b11:hover .code-pic {
+	display: block;
+}
